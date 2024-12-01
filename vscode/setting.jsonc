@@ -5,6 +5,8 @@
 
     // コピーした時の書式はOFF
     "editor.copyWithSyntaxHighlighting": false, 
+    // スペース類は全て表示させる
+    "editor.renderWhitespace": "all", 
 
 
     // --------------------------------------------------
