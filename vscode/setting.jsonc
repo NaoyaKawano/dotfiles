@@ -4,10 +4,18 @@
     // --------------------------------------------------
 
     // コピーした時の書式はOFF
-    "editor.copyWithSyntaxHighlighting": false, 
+    "editor.copyWithSyntaxHighlighting": false,
     // スペース類は全て表示させる
     "editor.renderWhitespace": "all", 
+    // カーソルの点滅方式はフェード
+    "editor.cursorBlinking": "phase",
 
+    // --------------------------------------------------
+    // ターミナル設定
+    // --------------------------------------------------
+
+    // Macでのターミナルデフォルトを zsh とする
+    "terminal.integrated.defaultProfile.osx": "zsh",
 
     // --------------------------------------------------
     // ワークベンチ（エクスプローラー）設定
