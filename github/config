@@ -1,0 +1,8 @@
+# GitHub SSH Config
+# IdentityFileは適宜修正
+Host github.com
+  HostName github.com
+  User git
+  IdentityFile ~/.ssh/id_rsa
+  IdentitiesOnly yes
+  Port 22
