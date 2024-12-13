@@ -9,6 +9,8 @@
     "editor.renderWhitespace": "all", 
     // カーソルの点滅方式はフェード
     "editor.cursorBlinking": "phase",
+    // ファイルを保存するときにフォーマット
+    "editor.formatOnSave": true,
 
     // --------------------------------------------------
     // ターミナル設定
