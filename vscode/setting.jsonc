@@ -12,11 +12,13 @@
     // コピーした時の書式はOFF
     "editor.copyWithSyntaxHighlighting": false,
     // スペース類は全て表示させる
-    "editor.renderWhitespace": "all", 
+    "editor.renderWhitespace": "all",
     // カーソルの点滅方式はフェード
     "editor.cursorBlinking": "phase",
     // ファイルを保存するときにフォーマット
     "editor.formatOnSave": true,
+    // リガチャ（合字）ON
+    "editor.fontLigatures": true,
 
     // --------------------------------------------------
     // ターミナル設定
