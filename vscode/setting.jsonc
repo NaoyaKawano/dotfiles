@@ -12,7 +12,7 @@
     // コピーした時の書式はOFF
     "editor.copyWithSyntaxHighlighting": false,
     // スペース類は全て表示させる
-    "editor.renderWhitespace": "all",
+    "editor.renderWhitespace": "all", 
     // カーソルの点滅方式はフェード
     "editor.cursorBlinking": "phase",
     // ファイルを保存するときにフォーマット
@@ -35,6 +35,8 @@
     "workbench.colorTheme": "Default Light Modern",
     // インデントの深さ 初期8の3倍
     "workbench.tree.indent": 24,
+    // アクティビティバーの配置 上部
+    "workbench.activityBar.location": "top",
 
     // --------------------------------------------------
     // TypeScript設定
